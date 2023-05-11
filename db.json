@@ -1,2 +1,25 @@
-bgrr
-rarssj ra os odk
+{
+    "users": [
+    {
+        "id": 1,
+        "name": "Andriy",
+        "surname": "Moskalenko",
+        "photo_url": "",
+        "balance": 1500
+    },
+    {
+        "id": 2,
+        "name": "Maksim",
+        "surname": "Kuksenkov",
+        "photo_url": "",
+        "balance": 2000
+    },
+    {
+        "id": 3,
+        "name": "Vlad",
+        "surname": "Kisdasd",
+        "photo_url": "",
+        "balance": 2000
+    }
+]
+}
