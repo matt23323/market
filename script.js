@@ -1,3 +1,3 @@
-// $.ajax('github.com/matt23323/market/main/db.json'),{
+// $.ajax('https://my-json-server.typicode.com/matt23323/matt23323'),{
 
 // }
