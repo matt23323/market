@@ -44,7 +44,7 @@
         "description": "Can display 2-lines X 16-characters. Operate with SV DC.",
         "price":92,
         "author_id":2,
-        "photo_url":"https://github.com/matt23323/market/blob/main/img/led.jpeg"
+        "photo_url":"https://raw.githubusercontent.com/matt23323/market/img/led.jpeg"
     },
     {
         "id": 3,
@@ -52,7 +52,7 @@
         "description": "",
         "price":92,
         "author_id":3,
-        "photo_url":"https://github.com/matt23323/market/blob/main/img/resistor.png"
+        "photo_url":"https://raw.githubusercontent.com/matt23323/market/img/resistor.jpeg"
     },
     {
         "id": 4,
@@ -60,7 +60,7 @@
         "description": "Can display different colors",
         "price":92,
         "author_id":4,
-        "photo_url":"https://github.com/matt23323/market/blob/main/img/rgb.png"
+        "photo_url":"https://raw.githubusercontent.com/matt23323/market/img/rgb.jpeg"
     }
 ]
 }
