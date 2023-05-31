@@ -34,7 +34,7 @@
         "id": 1,
         "name": "Arduino",
         "description": "A board that allows you to make different things",
-        "price": 92,
+        "price": 60,
         "author_id":1,
         "photo_url":"https://raw.githubusercontent.com/matt23323/market/main/img/arduino.jpeg"
     },
@@ -42,15 +42,15 @@
         "id": 2,
         "name": "LED display",
         "description": "Can display 2-lines X 16-characters. Operate with SV DC.",
-        "price":92,
+        "price":45,
         "author_id":2,
         "photo_url":"https://raw.githubusercontent.com/matt23323/market/main/img/led.jpeg"
     },
     {
         "id": 3,
         "name": "Resistor",
-        "description": "",
-        "price":92,
+        "description": "A resistor is an electrical component that limits or regulates the flow of electrical current in an electronic circuit",
+        "price":35,
         "author_id":3,
         "photo_url":"https://raw.githubusercontent.com/matt23323/market/main/img/resistor.jpeg"
     },
@@ -58,7 +58,7 @@
         "id": 4,
         "name": "RGB light",
         "description": "Can display different colors",
-        "price":92,
+        "price":20,
         "author_id":4,
         "photo_url":"https://raw.githubusercontent.com/matt23323/market/main/img/rgb.jpeg"
     }
