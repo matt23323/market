@@ -36,7 +36,7 @@
         "description": "A board that allows you to make different things",
         "price": 92,
         "author_id":1,
-        "photo_url":"https://raw.githubusercontent.com/matt23323/market/img/arduino.jpeg"
+        "photo_url":"https://raw.githubusercontent.com/matt23323/market/main/img/arduino.jpeg"
     },
     {
         "id": 2,
@@ -44,7 +44,7 @@
         "description": "Can display 2-lines X 16-characters. Operate with SV DC.",
         "price":92,
         "author_id":2,
-        "photo_url":"https://raw.githubusercontent.com/matt23323/market/img/led.jpeg"
+        "photo_url":"https://raw.githubusercontent.com/matt23323/market/main/img/led.jpeg"
     },
     {
         "id": 3,
@@ -52,7 +52,7 @@
         "description": "",
         "price":92,
         "author_id":3,
-        "photo_url":"https://raw.githubusercontent.com/matt23323/market/img/resistor.jpeg"
+        "photo_url":"https://raw.githubusercontent.com/matt23323/market/main/img/resistor.jpeg"
     },
     {
         "id": 4,
@@ -60,7 +60,7 @@
         "description": "Can display different colors",
         "price":92,
         "author_id":4,
-        "photo_url":"https://raw.githubusercontent.com/matt23323/market/img/rgb.jpeg"
+        "photo_url":"https://raw.githubusercontent.com/matt23323/market/main/img/rgb.jpeg"
     }
 ]
 }
