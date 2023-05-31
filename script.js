@@ -14,11 +14,11 @@ xhr.onload = function(){
     let product = document.createElement("div")
     product.classList.add("product");
     product.innerHTML = `
-    <h1 class="product-name">${p.name}</h1>
+    <h1 class="product-name"> ${p.name}</h1>
     <img class="product-photo" src="${p.photo_url}">
-    <p class="product-price">Price:${p.price}</p>
-    <p class="product-description">descript:${p.description}</p>
-    <a href="userProfile.html?id=${p.author_id}>Seller profile</a>
+    <p class="product-price">Price: ${p.price}</p>
+    <p class="product-description">Description: ${p.description}</p>
+    <a href="userProfile.html?id= ${p.author_id}>Seller profile</a>
     <button onclick="addProductToCart"(${p.id})">Buy</button>
     `;
     grid.append(product);
