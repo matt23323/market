@@ -36,7 +36,7 @@
         "description": "A board that allows you to make different things",
         "price": 92,
         "author_id":1,
-        "photo_url":"https://github.com/matt23323/market/blob/main/img/arduino.jpeg"
+        "photo_url":"https://raw.githubusercontent.com/matt23323/market/img/arduino.jpeg"
     },
     {
         "id": 2,
