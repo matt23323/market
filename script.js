@@ -8,7 +8,7 @@ xhr.open("GET",url+"/products")
 xhr.responseType = "json"
 xhr.onload = function(){
     productsArray = xhr.response
-    grid =  null;
+    grid.innerHTML =  null;
     productsArray.forEach(p=> {
         productsArray.push(p)
     let product = document.createElement("div")
@@ -19,7 +19,7 @@ xhr.onload = function(){
     <p class="product-price">Price:${p.price}</p>
     <p class="product-description">descript:${p.description}</p>
     <a href="userProfile.html?id=${p.author_id}>Seller profile</a>
-    <button onclick="addProductToCart(${p.id})">Buy</button>
+    <button onclick="addProductToCart"(${p.id})">Buy</button>
     `;
     grid.append(product);
 })
