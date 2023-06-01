@@ -145,3 +145,9 @@ button {
     background-color: rgb(170, 170, 255);
 
 }
+
+@media only screen and (max-width: 800px) {
+    #products-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}

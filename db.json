@@ -4,28 +4,28 @@
         "id": 1,
         "name": "Andriy",
         "surname": "Moskalenko",
-        "photo_url": "",
+        "photo_url": "https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_square.jpg",
         "balance": 1500
     },
     {
         "id": 2,
         "name": "Maksim",
         "surname": "Kuksenkov",
-        "photo_url": "",
+        "photo_url": "https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_square.jpg",
         "balance": 4000
     },
     {
         "id": 3,
         "name": "Vlad",
         "surname": "Kisdasd",
-        "photo_url": "",
+        "photo_url": "https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_square.jpg",
         "balance": 3000
     },
     {
-        "id": 3,
+        "id": 4,
         "name": "Roma",
         "surname": "Trarara",
-        "photo_url": "",
+        "photo_url": "https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_square.jpg",
         "balance": 3000
     }
 ],
