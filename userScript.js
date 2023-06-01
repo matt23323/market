@@ -40,3 +40,5 @@ productsRequest.onload = function() {
         `;
     });
 }
+
+productsRequest.send();
