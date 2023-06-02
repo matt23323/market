@@ -5,6 +5,7 @@
     padding: 0;
 
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:white;
 
 }
 
@@ -14,30 +15,38 @@ main, header {
     margin: 5vh 10vw;
 
 }
-
+body{
+    background-color:#0C070B ;
+}
 
 header {
 
     display: flex;
 
     justify-content: space-between;
+    color:white;
 
 }
 
+
 #profile {
 height:260px;
-background: #FF7F50;
+background: #4e4786;
 width:200px;
 border-radius: 20px;
 margin-bottom: 10px;
 }
 .user-products {
     height:270px;
-    background: #FF7F50;
+    background: #4e4786;
     width:1100px;
     border-radius: 20px;
     margin-bottom: 20px;
+    color:white;
+
     }
+
+
     #user-products-grid {
 
         display: grid;
@@ -53,7 +62,7 @@ margin-bottom: 10px;
     }
     a{
         text-decoration:none;
-        color:black;
+        color:white;
         font-size:24px;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
@@ -88,6 +97,8 @@ margin-bottom: 10px;
         margin: 0.5rem 0;
     
         background-color: #ffffff;
+
+        justify-content: center;
     
     }
     
