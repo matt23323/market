@@ -32,7 +32,7 @@ productsRequest.onload = function() {
     products.forEach(p => {
         productsGrid.innerHTML += `
         <div class="product">
-        <h2 class="product-name>${p.name}</h2>
+        <h2 class="product-name">${p.name}</h2>
         <img class="product-photo" src="${p.photo_url}" alt="${p.name}">
         <p class="product-price"><b>Price: </b>${p.price}$</p>
         <p class="product-description"><b>Description: </b>${p.description}</p>
