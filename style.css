@@ -5,16 +5,16 @@
     padding: 0;
 
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-color:white;
+
 }
 body{
-    background: #0C070B;
+    background: white;
 }
 
 main, header {
 
     margin: 5vh 10vw;
-
+color:black;
 }
 
 
@@ -53,6 +53,7 @@ header {
     flex-direction: column;
 
     justify-content: space-between;
+    color:white;
 
 }
 
@@ -104,11 +105,40 @@ button {
 
 /* -----Cart----- */
 
+#cart-products::before{
+    content: '';
+    border: transparent solid 16px;
+    border-bottom: solid #000 11px;
+    position:relative;
+    top:-1.8rem;
+    left:0.3rem;
+    z-index:-1;
+    background-color:white;
+
+    
+
+}
+#cart-products{
+    border:1px solid black;
+    border-radius:0.5rem;
+    background-color: #fff;
+    top:70px;
+    left:72.5rem;
+    position:absolute;
+    padding:5px;
+    text-align: left;
+}
+
+.hide{
+    transition: 2s;display:none;
+    
+}
+
+
 
 #cart-button {
 
     background: none;
-
     border: none;
 
     border-radius: 50%;
@@ -120,21 +150,23 @@ button {
     cursor: pointer;
 
     display: flex;
+    position:relative;
+    
 
     justify-content: center;
 
     align-items: center;
 
     transition: all .5s;
-
+    background-color: white;
+    color:white;
+    width:50px !important;
+    height:50px !important;
+    top:-1.2rem;
 }
 
 
-#cart {
 
-    position: relative;
-
-}
 
 
 #cart-button img {
@@ -146,12 +178,6 @@ button {
 }
 
 
-#cart-button {
-
-    background-color: #4e4786;
-    color:white
-
-}
 
 @media only screen and (max-width: 800px) {
     #products-grid {
